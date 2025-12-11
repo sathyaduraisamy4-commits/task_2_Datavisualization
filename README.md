@@ -1,5 +1,6 @@
 TASK 2 - Data Visualization & Storytelling 
 This repository contains the solution for task 2, which focuses on creating meaningful visualizations using the sales dataset.
+
 Visualizations Created:
 1.Monthly Sales Trend - shows how sales change month by month
 2.Sales by Region - Compares sales across all regions.
